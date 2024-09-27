@@ -48,15 +48,14 @@ const Skills = () => {
         </div>
         <br />
         <ul className="list-decimal px-4 font-Poppins sm:text-sm text-xs !leading-7">
-          <li>Lorem ipsum dolor sit, amet consectetur adipisicing.</li>
-          <li>Lorem ipsum dolor sit, ame.</li>
-          <li>Lorem ipsum dolor sit, amet consectetur</li>
+          <li>Experience with AI and machine learning frameworks for data analysis and model building.</li>
+          <li>Proficient in cloud services for deploying and managing applications.</li>
+          <li>Excellent problem-solving abilities with a focus on user experience and innovation.</li>
           <li>
-            Lorem ipsum dolor sit, amet dolor sit, amet consectetur adipisicing.
+          Active contributor to open-source projects, collaborating with diverse teams.
           </li>
           <li>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad est
-            beatae quos rem.
+          Strong web development skills in creating responsive and interactive websites.
           </li>
         </ul>
         <br />

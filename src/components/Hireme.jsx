@@ -13,7 +13,7 @@ const Hireme = () => {
           {Hireme.subtitle}
         </h4>
         <br />
-        <div className="flex items-center md:flex-row flex-col-reverse ">
+        <div className="flex items-center md:flex-row flex-col-reverse">
           <img
             src={Hireme.image1}
             alt="..."
@@ -33,9 +33,9 @@ const Hireme = () => {
           >
             <p className="leading-7">{Hireme.para}</p>
             <br />
-            <button className="btn bg-dark_primary text-white">
+            <a href="#contact" className="btn bg-dark_primary text-white">
               {Hireme.btnText}
-            </button>
+            </a>
           </div>
         </div>
       </div>
