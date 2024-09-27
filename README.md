@@ -1,6 +1,6 @@
 
 
-# React Portfolio 2
+# React Portfolio 
 ### Vite + React + tailwind
 
 ```bash 
