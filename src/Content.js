@@ -199,11 +199,6 @@ export const content = {
         link: "mailto:parthib.sarkar04@gmail.com",
       },
       {
-        text: "+91 9163556868",
-        icon: MdCall,
-        link: "https://wa.me/9163556868",
-      },
-      {
         text: "Parthib Sarkar",
         icon: BsLinkedin,
         link: "https://www.linkedin.com/in/parthib-sarkar-859838293/",
