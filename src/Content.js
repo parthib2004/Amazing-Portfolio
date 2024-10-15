@@ -7,6 +7,12 @@ import pytorch from "./assets/images/Skills/pytorch.png";
 import colab from "./assets/images/Skills/colab.png";
 import azure from "./assets/images/Skills/azure.png";
 import python from "./assets/images/Skills/python.png";
+import react from "./assets/images/Skills/react.png";
+import node from "./assets/images/Skills/node.png";
+import vite from "./assets/images/Skills/vite.png";
+import mongo from "./assets/images/Skills/mongo.png";
+import express from "./assets/images/Skills/express.png";
+import javascript from "./assets/images/Skills/javascript.png";
 
 import services_logo1 from "./assets/images/Services/logo1.png";
 import services_logo2 from "./assets/images/Services/logo2.png";
@@ -15,6 +21,8 @@ import services_logo3 from "./assets/images/Services/logo3.png";
 import project1 from "./assets/images/Projects/pic1.png";
 import project2 from "./assets/images/Projects/pic2.png";
 import project3 from "./assets/images/Projects/pic3.png";
+import project4 from "./assets/images/Projects/pic4.png";
+import project5 from "./assets/images/Projects/pic5.png";
 import person_project from "./assets/images/Projects/person.png";
 
 import avatar1 from "./assets/images/Testimonials/avatar1.png";
@@ -58,7 +66,7 @@ export const content = {
     },
   ],
   hero: {
-    title: "AI/ML Enthusiast",
+    title: "Software Engineer",
     firstName: "Parthib",
     LastName: "Sarkar",
     btnText: "Hire Me",
@@ -66,7 +74,7 @@ export const content = {
     hero_content: [
       {
         count: "2+",
-        text: "Years of Experience in AI/ML",
+        text: "Years of Experience",
       },
       {
         count: "20+",
@@ -78,6 +86,36 @@ export const content = {
     title: "Skills",
     subtitle: "MY TOP SKILLS",
     skills_content: [
+      {
+        name: "React.js",
+        para: "Dynamic UIs",
+        logo: react,
+      },
+      {
+        name: "Vite",
+        para: "Fast Build Tool",
+        logo: vite,
+      },
+      {
+        name: "Node.js",
+        para: "Backend Development",
+        logo: node,
+      },
+      {
+        name: "Express.js",
+        para: "Web API Framework",
+        logo: express,
+      },
+      {
+        name: "MongoDB",
+        para: "NoSQL Database",
+        logo: mongo,
+      },
+      {
+        name: "Javascript",
+        para: "Versatile Programming Language",
+        logo: javascript,
+      },
       {
         name: "Python",
         para: "Learning Everyday! Using Everyday!",
@@ -116,6 +154,11 @@ export const content = {
     subtitle: "WHAT I OFFER",
     service_content: [
       {
+        title: "Web Application Development",
+        para: "Build responsive web applications using framework like React along with back-end technologies like Node.js, Express for seamless user experiences.",
+        logo: services_logo1,
+      },
+      {
         title: "AI/ML Solutions",
         para: "Building and deploying AI-powered applications for automation, recommendation systems, or predictive analytics.",
         logo: services_logo1,
@@ -140,6 +183,14 @@ export const content = {
       {
         title: "Text to Image Generator",
         image: project1,
+      },
+      {
+        title: "Expense Tracker",
+        image: project4,
+      },
+      {
+        title: "Linux Portfolio",
+        image: project5,
       },
       {
         title: "Movie Recommender System",
