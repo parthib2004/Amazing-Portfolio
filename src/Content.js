@@ -25,6 +25,7 @@ import project4 from "./assets/images/Projects/pic4.png";
 import project5 from "./assets/images/Projects/pic5.png";
 import project6 from "./assets/images/Projects/pic6.png";
 import project7 from "./assets/images/Projects/pic7.png";
+import project8 from "./assets/images/Projects/pic8.png";
 import person_project from "./assets/images/Projects/person.png";
 
 import avatar1 from "./assets/images/Testimonials/avatar1.png";
@@ -216,6 +217,11 @@ export const content = {
         title: "AI Chatbot",
         image: project3,
         link: "https://chatbot-parthib.streamlit.app/",
+      },
+      {
+        title: "Promptify",
+        image: project8,
+        link: "https://promptify-parthib.streamlit.app/",
       },
     ],
   },
