@@ -23,6 +23,8 @@ import project2 from "./assets/images/Projects/pic2.png";
 import project3 from "./assets/images/Projects/pic3.png";
 import project4 from "./assets/images/Projects/pic4.png";
 import project5 from "./assets/images/Projects/pic5.png";
+import project6 from "./assets/images/Projects/pic6.png";
+import project7 from "./assets/images/Projects/pic7.png";
 import person_project from "./assets/images/Projects/person.png";
 
 import avatar1 from "./assets/images/Testimonials/avatar1.png";
@@ -183,22 +185,37 @@ export const content = {
       {
         title: "Text to Image Generator",
         image: project1,
+        link: "https://parthib-text2img.netlify.app/",
+      },
+      {
+        title: "E-Commerce Website",
+        image: project6,
+        link: "https://e-commerce-parthib.vercel.app/",
       },
       {
         title: "Expense Tracker",
         image: project4,
+        link: "https://expense-tracker-parthib.vercel.app/",
       },
       {
         title: "Linux Portfolio",
         image: project5,
+        link: "https://parthib-portfolio.vercel.app/",
+      },
+      {
+        title: "Weather App",
+        image: project7,
+        link: "https://weather-app-parthib.vercel.app/",
       },
       {
         title: "Movie Recommender System",
         image: project2,
+        link: "https://movie-recommender-system-parthib.streamlit.app/",
       },
       {
         title: "AI Chatbot",
         image: project3,
+        link: "https://chatbot-parthib.streamlit.app/",
       },
     ],
   },
