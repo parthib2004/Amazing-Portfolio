@@ -30,6 +30,7 @@ import project7 from "./assets/images/Projects/pic7.png";
 import project8 from "./assets/images/Projects/pic8.png";
 import project9 from "./assets/images/Projects/pic9.png";
 import project10 from "./assets/images/Projects/pic10.png";
+import project11 from "./assets/images/Projects/pic11.png";
 import person_project from "./assets/images/Projects/person.png";
 
 import avatar1 from "./assets/images/Testimonials/avatar1.png";
@@ -221,6 +222,11 @@ export const content = {
         title: "AI-Powered Resume Builder",
         image: project10,
         link: "https://resume-builder-two-cyan.vercel.app/",
+      },
+      {
+        title: "Random Quote Generator",
+        image: project11,
+        link: "https://random-quote-generator-beta-six.vercel.app/",
       },
       {
         title: "Weather App",
