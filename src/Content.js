@@ -26,6 +26,8 @@ import project5 from "./assets/images/Projects/pic5.png";
 import project6 from "./assets/images/Projects/pic6.png";
 import project7 from "./assets/images/Projects/pic7.png";
 import project8 from "./assets/images/Projects/pic8.png";
+import project9 from "./assets/images/Projects/pic9.png";
+import project10 from "./assets/images/Projects/pic10.png";
 import person_project from "./assets/images/Projects/person.png";
 
 import avatar1 from "./assets/images/Testimonials/avatar1.png";
@@ -204,6 +206,11 @@ export const content = {
         link: "https://parthib-portfolio.vercel.app/",
       },
       {
+        title: "AI-Powered Resume Builder",
+        image: project10,
+        link: "https://resume-builder-two-cyan.vercel.app/",
+      },
+      {
         title: "Weather App",
         image: project7,
         link: "https://weather-app-parthib.vercel.app/",
@@ -212,6 +219,11 @@ export const content = {
         title: "Movie Recommender System",
         image: project2,
         link: "https://movie-recommender-system-parthib.streamlit.app/",
+      },
+      {
+        title: "Macbook Page",
+        image: project9,
+        link: "https://macbook-page.vercel.app/",
       },
       {
         title: "AI Chatbot",
