@@ -13,6 +13,8 @@ import vite from "./assets/images/Skills/vite.png";
 import mongo from "./assets/images/Skills/mongo.png";
 import express from "./assets/images/Skills/express.png";
 import javascript from "./assets/images/Skills/javascript.png";
+import next from "./assets/images/Skills/next.png";
+import typescript from "./assets/images/Skills/typescript.png";
 
 import services_logo1 from "./assets/images/Services/logo1.png";
 import services_logo2 from "./assets/images/Services/logo2.png";
@@ -92,6 +94,11 @@ export const content = {
     subtitle: "MY TOP SKILLS",
     skills_content: [
       {
+        name: "Next.js",
+        para: "Modern Web Development",
+        logo: next,
+      },
+      {
         name: "React.js",
         para: "Dynamic UIs",
         logo: react,
@@ -120,6 +127,11 @@ export const content = {
         name: "Javascript",
         para: "Versatile Programming Language",
         logo: javascript,
+      },
+      {
+        name: "Typescript",
+        para: "Modern Programming Language",
+        logo: typescript,
       },
       {
         name: "Python",
