@@ -32,6 +32,8 @@ import project9 from "./assets/images/Projects/pic9.png";
 import project10 from "./assets/images/Projects/pic10.png";
 import project11 from "./assets/images/Projects/pic11.png";
 import project12 from "./assets/images/Projects/pic12.png";
+import project13 from "./assets/images/Projects/pic13.png";
+import project14 from "./assets/images/Projects/pic14.png";
 import person_project from "./assets/images/Projects/person.png";
 
 import avatar1 from "./assets/images/Testimonials/avatar1.png";
@@ -225,6 +227,11 @@ export const content = {
         link: "https://resume-builder-two-cyan.vercel.app/",
       },
       {
+        title: "Recipe Finder",
+        image: project13,
+        link: "https://recipe-finder-azure.vercel.app/",
+      },
+      {
         title: "Random Quote Generator",
         image: project11,
         link: "https://random-quote-generator-beta-six.vercel.app/",
@@ -248,6 +255,11 @@ export const content = {
         title: "Space Tic-Tac-Toe",
         image: project12,
         link: "https://space-tic-tac-toe.vercel.app/",
+      },
+      {
+        title: "Image Compressor",
+        image: project14,
+        link: "https://image-compressor-ten.vercel.app/",
       },
       {
         title: "AI Chatbot",
