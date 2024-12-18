@@ -34,6 +34,7 @@ import project11 from "./assets/images/Projects/pic11.png";
 import project12 from "./assets/images/Projects/pic12.png";
 import project13 from "./assets/images/Projects/pic13.png";
 import project14 from "./assets/images/Projects/pic14.png";
+import project15 from "./assets/images/Projects/pic15.png";
 import person_project from "./assets/images/Projects/person.png";
 
 import avatar1 from "./assets/images/Testimonials/avatar1.png";
@@ -210,6 +211,11 @@ export const content = {
         title: "E-Commerce Website",
         image: project6,
         link: "https://e-commerce-parthib.vercel.app/",
+      },
+      {
+        title: "Waste Analysis System",
+        image: project15,
+        link: "https://waste-sort-flask.onrender.com/",
       },
       {
         title: "Expense Tracker",
