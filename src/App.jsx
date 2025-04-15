@@ -4,7 +4,7 @@ import Navbar from "./Layouts/Navbar";
 import Skills from "./components/Skills";
 import Service from "./components/Services";
 import Projects from "./components/Projects";
-import Testimonials from "./components/Testimonials";
+// Removed Testimonials import
 import Hireme from "./components/Hireme";
 import Contact from "./components/Contact";
 import { useEffect } from "react";
@@ -27,12 +27,12 @@ const App = () => {
       <Skills />
       <Service />
       <Projects />
-      <Testimonials />
+      {/* Removed Testimonials component */}
       <Hireme />
       <Contact />
       <footer className="p-3 text-center">
         <h6 className="mb-3">PARTHIB SARKAR</h6>
-        <p>parthibsarkar © All CopyRights Reserved 2024</p>
+        <p>parthibsarkar © All CopyRights Reserved 2025</p>
       </footer>
     </div>
   );

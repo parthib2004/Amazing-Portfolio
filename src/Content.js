@@ -35,12 +35,8 @@ import project12 from "./assets/images/Projects/pic12.png";
 import project13 from "./assets/images/Projects/pic13.png";
 import project14 from "./assets/images/Projects/pic14.png";
 import project15 from "./assets/images/Projects/pic15.png";
+import project16 from "./assets/images/Projects/pic16.png";
 import person_project from "./assets/images/Projects/person.png";
-
-import avatar1 from "./assets/images/Testimonials/avatar1.png";
-import avatar2 from "./assets/images/Testimonials/avatar2.png";
-import avatar3 from "./assets/images/Testimonials/avatar3.png";
-import avatar4 from "./assets/images/Testimonials/avatar4.png";
 
 import Hireme_person from "./assets/images/Hireme/person.png";
 import Hireme_person2 from "./assets/images/Hireme/person2.png";
@@ -213,9 +209,19 @@ export const content = {
         link: "https://e-commerce-parthib.vercel.app/",
       },
       {
+        title: "Movie Recommender System",
+        image: project2,
+        link: "https://movie-recommender-system-parthib.streamlit.app/",
+      },
+      {
         title: "Waste Analysis System",
         image: project15,
         link: "https://waste-sort-flask.onrender.com/",
+      },
+      {
+        title: "WildTrails India",
+        image: project16,
+        link: "https://wildtrails-india.vercel.app/",
       },
       {
         title: "Expense Tracker",
@@ -238,6 +244,11 @@ export const content = {
         link: "https://recipe-finder-azure.vercel.app/",
       },
       {
+        title: "Image Compressor",
+        image: project14,
+        link: "https://image-compressor-ten.vercel.app/",
+      },
+      {
         title: "Random Quote Generator",
         image: project11,
         link: "https://random-quote-generator-beta-six.vercel.app/",
@@ -246,11 +257,6 @@ export const content = {
         title: "Weather App",
         image: project7,
         link: "https://weather-app-parthib.vercel.app/",
-      },
-      {
-        title: "Movie Recommender System",
-        image: project2,
-        link: "https://movie-recommender-system-parthib.streamlit.app/",
       },
       {
         title: "Macbook Page",
@@ -263,11 +269,6 @@ export const content = {
         link: "https://space-tic-tac-toe.vercel.app/",
       },
       {
-        title: "Image Compressor",
-        image: project14,
-        link: "https://image-compressor-ten.vercel.app/",
-      },
-      {
         title: "AI Chatbot",
         image: project3,
         link: "https://chatbot-parthib.streamlit.app/",
@@ -276,36 +277,6 @@ export const content = {
         title: "Promptify",
         image: project8,
         link: "https://promptify-parthib.streamlit.app/",
-      },
-    ],
-  },
-  Testimonials: {
-    title: "Testimonials",
-    subtitle: "MY CLIENT REVIEWS",
-    testimonials_content: [
-      {
-        review:
-          "“His expertise in AI solutions helped us streamline our data processes significantly. A true professional!”",
-        img: avatar1,
-        name: "JOHN DOE",
-      },
-      {
-        review:
-          "“Working with Parthib Sarkar was a game-changer for our project. His attention to detail and innovative ideas made a real difference!”",
-        img: avatar2,
-        name: "Tom Alex",
-      },
-      {
-        review:
-          "“Fantastic communication and a quick turnaround. He understood our needs perfectly and delivered a great product!”",
-        img: avatar3,
-        name: "Johnny",
-      },
-      {
-        review:
-          "“The collaboration was smooth and productive. Their skills in web development and cloud services truly stood out.”",
-        img: avatar4,
-        name: "ROBBIN",
       },
     ],
   },
@@ -334,6 +305,6 @@ export const content = {
     ],
   },
   Footer: {
-    text: "All © Copy Right Reserved 2024",
+    text: "All © Copy Right Reserved 2025",
   },
 };
