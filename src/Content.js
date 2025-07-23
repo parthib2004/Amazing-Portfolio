@@ -36,6 +36,7 @@ import project13 from "./assets/images/Projects/pic13.png";
 import project14 from "./assets/images/Projects/pic14.png";
 import project15 from "./assets/images/Projects/pic15.png";
 import project16 from "./assets/images/Projects/pic16.png";
+import project17 from "./assets/images/Projects/pic17.png";
 import person_project from "./assets/images/Projects/person.png";
 
 import Hireme_person from "./assets/images/Hireme/person.png";
@@ -222,6 +223,11 @@ export const content = {
         title: "WildTrails India",
         image: project16,
         link: "https://wildtrails-india.vercel.app/",
+      },
+      {
+        title: "URL Intelligence Tool",
+        image: project17,
+        link: "https://url-intelligence-tool.onrender.com/",
       },
       {
         title: "Expense Tracker",
